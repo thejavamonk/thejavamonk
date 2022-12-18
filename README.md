@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thejavamonk
-- 👀 I’m interested in Java, Python, Spring Boot, React
+- 👀 I’m interested in Java, Python, JavaScript, Spring Boot, React
 - 🌱 I’m currently learning DataScience and Machine Learning
 - 💞️ I’m looking to collaborate on writing web applications 
 - 📫 thejavamonk@gmail.com
