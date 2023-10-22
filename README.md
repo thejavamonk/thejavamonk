@@ -3,7 +3,7 @@
 - 🌱 Currently, I'm diving into the world of Data Science and Machine Learning, constantly learning and exploring new horizons.
 - 🧪 I enjoy experimenting with data and building predictive models, with a goal to make data-driven decisions.
 - 🛠️ I'm a firm believer in the power of open-source, and I actively contribute to various projects in my areas of interest.
-- 📚 I love sharing knowledge and experiences. You can find my insights and tutorials on web development, data science, and machine learning on my blog [thejavamonk.github.io].
+- 📚 I love sharing knowledge and experiences. You can find my insights and tutorials on web development, data science, and machine learning on my blog [https://thejavamonk.github.io/].
 - 💞️ I'm always open to collaborate on web application projects, data science experiments, or open-source initiatives. Let's work together to build something amazing!
 - 📫 Reach out to me at thejavamonk@gmail.com for inquiries, collaborations, or just to connect.
 - 🔗 Connect with me on LinkedIn [https://www.linkedin.com/in/thejavamonk/] to stay updated with my professional journey.
